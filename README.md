@@ -1,8 +1,8 @@
-Yield Farming and Decentralized Banking
+**Yield Farming and Decentralized Banking**
 
 Yield farming, a cornerstone of decentralized finance (DeFi), empowers users to earn passive income on their crypto assets by providing liquidity to various decentralized protocols. Unlike traditional banking, which relies on centralized institutions, yield farming operates within a decentralized ecosystem, leveraging smart contracts on blockchain networks like Ethereum.
 
-Key Features:
+*Key Features:*
 
 Liquidity Provision: Users provide liquidity to decentralized exchanges (DEXs) or lending platforms in exchange for rewards such as trading fees or governance tokens.
 
@@ -14,7 +14,7 @@ Decentralized Governance: Many platforms incorporate governance tokens, allowing
 
 Accessibility and Inclusivity: Yield farming democratizes access to financial services, allowing anyone with an internet connection to participate in global financial markets.
 
-Benefits:
+*Benefits:*
 
 Financial Freedom: Users can earn passive income and participate in a borderless financial system without relying on intermediaries.
 
